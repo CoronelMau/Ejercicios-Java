@@ -1,0 +1,5 @@
+public class mau {
+  public static main void(String args[]){
+   system.out.println("Hola Mundo");
+ }
+}
